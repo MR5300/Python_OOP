@@ -1,3 +1,4 @@
+
 class Pies:
     #Konstruktor
     def __init__(self, imie, wiek, rasa):
