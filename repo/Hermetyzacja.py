@@ -3,7 +3,6 @@ class KontoBankowe:
         self.__nrRachunku = nrRachunku
         self.__waluta = waluta
         self.__saldo = 0
-        self.__zalogowany = 0
     #Getter stanu konta
     def sprawdzStanKonta(self):
         print('Twoje saldo wynosi', self.__saldo, self.__waluta)
